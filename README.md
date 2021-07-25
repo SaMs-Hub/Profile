@@ -1,2 +1,1 @@
-# SaMsHub.github.io
-hello
+This is My Personal Website
