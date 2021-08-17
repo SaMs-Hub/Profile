@@ -211,7 +211,7 @@ Skills Section */
     width: 11rem;
     height: 2.2rem;
     background-color: lightgrey;
-    border-radius: 1rem;
+    border-radius: 0.5em;
     box-shadow: 1px 1px 2px 1px #b9b9b9 inset;
     margin: 25px;
     overflow: hidden;
@@ -219,7 +219,6 @@ Skills Section */
 }
 
 .skill-progress>div{
-    border-radius: 20px 0px 0px 20px;
     box-shadow: 1px 1px 5px 2px #989882;
 }
 
